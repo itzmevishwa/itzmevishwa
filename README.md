@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=220&section=header&text=VISHWA%20A&fontSize=70&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20%26%20Prompt%20Engineering%20%E2%80%A2%20Data%20Analyst&descAlignY=58&descSize=16&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:1a1a1a,100:D4AF37&amp;height=220&amp;section=header&amp;text=VISHWA%20A&amp;fontSize=70&amp;fontColor=D4AF37&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20%26%20Prompt%20Engineering%20%E2%80%A2%20Data%20Analyst&amp;descAlignY=58&amp;descSize=16&amp;descAlign=50" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/itzmevishwa">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Final-year+CSE+(AI+%26+ML)+Student;Building+ML+Pipelines+%26+LLM+Apps;Data+%E2%86%92+Insights+%E2%86%92+Impact;Open+to+AI%2FML+%26+Data+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=D4AF37&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Final-year+CSE+(AI+%26+ML)+Student;Building+ML+Pipelines+%26+LLM+Apps;Data+%E2%86%92+Insights+%E2%86%92+Impact;Open+to+AI%2FML+%26+Data+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- LIVE PROFILE STATS -->
-<img src="https://komarev.com/ghpvc/?username=itzmevishwa&label=PROFILE+VIEWS&color=D4AF37&style=for-the-badge" alt="profile views" />
-<img src="https://img.shields.io/github/followers/itzmevishwa?label=FOLLOWERS&style=for-the-badge&color=D4AF37&labelColor=000000" alt="followers" />
-<img src="https://img.shields.io/github/stars/itzmevishwa?label=STARS&style=for-the-badge&color=D4AF37&labelColor=000000" alt="stars" />
+<img src="https://komarev.com/ghpvc/?username=itzmevishwa&amp;label=PROFILE+VIEWS&amp;color=D4AF37&amp;style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/itzmevishwa?label=FOLLOWERS&amp;style=for-the-badge&amp;color=D4AF37&amp;labelColor=000000" alt="followers" />
+<img src="https://img.shields.io/github/stars/itzmevishwa?label=STARS&amp;style=for-the-badge&amp;color=D4AF37&amp;labelColor=000000" alt="stars" />
 
 </div>
 
@@ -46,16 +46,16 @@ goal: "Turn raw data into real-world impact"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vishwa444/">
-    <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000" />
+    <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=D4AF37&amp;labelColor=000000" />
   </a>
   <a href="mailto:vishwa.pvt.01@gmail.com">
-    <img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" />
+    <img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=D4AF37&amp;labelColor=000000" />
   </a>
   <a href="https://instagram.com/itzmevishwa.2k4">
-    <img src="https://img.shields.io/badge/-INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=000000" />
+    <img src="https://img.shields.io/badge/-INSTAGRAM-000000?style=for-the-badge&amp;logo=instagram&amp;logoColor=D4AF37&amp;labelColor=000000" />
   </a>
   <a href="https://github.com/itzmevishwa">
-    <img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" />
+    <img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&amp;logo=github&amp;logoColor=D4AF37&amp;labelColor=000000" />
   </a>
 </p>
 
@@ -66,36 +66,36 @@ goal: "Turn raw data into real-world impact"
 <div align="center">
 
 ### Programming
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&amp;logo=mysql&amp;logoColor=D4AF37&amp;labelColor=000000" />
 
 ### Machine Learning & Data
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&logo=python&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&amp;logo=pandas&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&amp;logo=numpy&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/Scikit_Learn-000000?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge&amp;logo=python&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&amp;logo=plotly&amp;logoColor=D4AF37&amp;labelColor=000000" />
 
 ### LLM & AI Tools
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&amp;logo=anthropic&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&amp;logo=githubcopilot&amp;logoColor=D4AF37&amp;labelColor=000000" />
 
 ### Frameworks & Deployment
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&amp;logo=streamlit&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&amp;logo=fastapi&amp;logoColor=D4AF37&amp;labelColor=000000" />
 
 ### Databases
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&amp;logo=mysql&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&amp;logo=sqlite&amp;logoColor=D4AF37&amp;labelColor=000000" />
 
 ### Tools & Workflow
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=D4AF37&labelColor=000000" />
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=D4AF37&labelColor=000000" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&amp;logo=github&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&amp;logo=jupyter&amp;logoColor=D4AF37&amp;labelColor=000000" />
+<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=D4AF37&amp;labelColor=000000" />
 
 </div>
 
@@ -179,13 +179,13 @@ End-to-end ML on 1,275 laptops with 23 features, engineered into 55 model-ready 
 <div align="center">
 
 <a href="https://github.com/itzmevishwa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzmevishwa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmevishwa&layout=compact&langs_count=8&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itzmevishwa&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;icon_color=D4AF37&amp;text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmevishwa&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;text_color=FFFFFF" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=itzmevishwa&hide_border=true&background=000000&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=D4AF37&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B0B0B0" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itzmevishwa&amp;hide_border=true&amp;background=000000&amp;stroke=D4AF37&amp;ring=D4AF37&amp;fire=D4AF37&amp;currStreakLabel=D4AF37&amp;sideLabels=D4AF37&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=B0B0B0" alt="GitHub Streak" />
 
 </div>
 
@@ -195,7 +195,7 @@ End-to-end ML on 1,275 laptops with 23 features, engineered into 55 model-ready 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmevishwa&bg_color=000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true&custom_title=Vishwa%27s%20Contribution%20Journey" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmevishwa&amp;bg_color=000000&amp;color=D4AF37&amp;line=D4AF37&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;custom_title=Vishwa%27s%20Contribution%20Journey" />
 
 </div>
 
@@ -221,7 +221,7 @@ End-to-end ML on 1,275 laptops with 23 features, engineered into 55 model-ready 
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark" />
 
 </div>
 
@@ -235,6 +235,6 @@ End-to-end ML on 1,275 laptops with 23 features, engineered into 55 model-ready 
 
 📧 [vishwa.pvt.01@gmail.com](mailto:vishwa.pvt.01@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/vishwa444/) · 🐙 [GitHub](https://github.com/itzmevishwa)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1a1a1a,100:000000&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=20&fontColor=D4AF37&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:D4AF37,50:1a1a1a,100:000000&amp;height=120&amp;section=footer&amp;text=Open%20to%20Opportunities&amp;fontSize=20&amp;fontColor=D4AF37&amp;fontAlignY=70" />
 
 </div>
