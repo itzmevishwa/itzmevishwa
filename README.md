@@ -40,7 +40,7 @@
   Class of  :  2026  |  CGPA: 7.98
 ─────────────────────────────────────────────
   Currently :  Data & ML Intern, Pumo Technovation
-  Working on:  NHANES Health Risk Prediction
+  Working on:  Health Risk ML Platform (NHANES 2021–2023)
   Learning  :  Advanced LLM workflows, MLOps
 ─────────────────────────────────────────────
   Motto     :  "Turn raw data into real-world impact"
