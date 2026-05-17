@@ -119,12 +119,13 @@
 #### ◈ NHANES Health Risk Prediction
 *ML on Public Health Data · Mar 2026 – Present*
 
-End-to-end ML pipeline on CDC NHANES data — ingested 19 XPT files into MySQL, cleaned 11,933 → 6,235 records with SQL special-code handling.
+End-to-end ML pipeline on NHANES 2021–2023 CDC data — loaded raw 
+XPT files into MySQL, cleaned using SQL with special code handling 
+and medical range validation.
 
-✦ Engineered 11 clinical features (HOMA-IR, cholesterol ratios)
-✦ Trained 21 ML models across 7 health conditions
-✦ **Achieved 92.4% ROC-AUC** for diabetes risk
-✦ Deployed 7-page Streamlit dashboard with AI advice
+✦ Engineered clinical features (HOMA-IR, cholesterol ratios, waist-height ratio)
+✦ Trained and compared LR, RF, and XGBoost across 7 health conditions
+✦ Deployed 7-page Streamlit dashboard with AI-generated health advice
 
 `Python` · `MySQL` · `Scikit-learn` · `XGBoost` · `Streamlit`
 
