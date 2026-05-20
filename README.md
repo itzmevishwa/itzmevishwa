@@ -37,7 +37,7 @@
   Role      :  AI/ML Engineer | LLM Developer
   Location  :  Chennai, India
   Education :  B.Tech CSE (AI & ML), SRM KTR
-  Class of  :  2026  |  CGPA: 7.98
+  Class of  :  2026  |  CGPA: 8.07
 ─────────────────────────────────────────────
   Currently :  Data & ML Intern, Pumo Technovation
   Working on:  Health Risk ML Platform (NHANES 2021–2023)
