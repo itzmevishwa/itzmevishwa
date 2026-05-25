@@ -116,19 +116,19 @@
 <tr>
 <td width="50%" valign="top">
 
-#### ◈ NHANES Health Risk Prediction
+#### ◈ CardioScan — Leakage-Free Risk Screening
 *ML on Public Health Data · Mar 2026 – Present*
 
-End-to-end ML pipeline on NHANES 2021–2023 CDC data — loaded raw 
-XPT files into MySQL, cleaned using SQL with special code handling 
-and medical range validation.
+End-to-end ML pipeline on NHANES 2021–2023 CDC data — merged 20 
+source files, cleaned with special code handling and medical range 
+validation.
 
-✦ Engineered clinical features (HOMA-IR, cholesterol ratios, waist-height ratio)
-✦ Trained and compared LR, RF, and XGBoost across 7 health conditions
-✦ Deployed 7-page Streamlit dashboard with AI-generated health advice
+✦ Engineered demographic, body, BP, and lifestyle features
+✦ Trained LR, RF, and XGBoost to screen 4 cardiometabolic conditions
+✦ Eliminated data leakage per model for honest 0.80–0.82 AUC
+✦ Deployed an interactive Streamlit screening app
 
 `Python` · `MySQL` · `Scikit-learn` · `XGBoost` · `Streamlit`
-
 </td>
 <td width="50%" valign="top">
 
